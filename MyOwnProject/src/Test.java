@@ -11,6 +11,7 @@ System.out.println("third Commit");
 		System.out.println("fifth Commit");
 		System.out.println("sixth commiyt");
 		System.out.println("stash Commit");
+		System.out.println("push Commit");
 
 	}
 
